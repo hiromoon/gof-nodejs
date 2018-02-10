@@ -1,4 +1,5 @@
 export default class Aggregate {
-  static iterator() {
+  iterator() {
+    throw new Error('Iterator Method Unimplemented.');
   }
 }

@@ -15,5 +15,5 @@ $ node dist/${sample_dir}/index.js
 or
 ```
 $ npm install -g @babel/node @babel/core @babel/preset-env
-$ babel-node src/${sample_dir/index.j}
+$ babel-node src/${sample_dir}/index.js
 ```
